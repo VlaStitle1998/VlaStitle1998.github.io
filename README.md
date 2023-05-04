@@ -1,35 +1,29 @@
-<div id="current_date_time_block"></div>
+<script>
+function time () {
+  date = new Date(),
+  h = date.getHours(),
+  m = date.getMinutes(),
+  s = date.getSeconds(),
 
-<script type="text/javascript">
+  h = (h < 10) ? '0' + h : h,
+  m = (m < 10) ? '0' + m : m,
+  s = (s < 10) ? '0' + s : s;
+
+  hours  = document.getElementById("id_H");
+  minutes = document.getElementById("id_M");
+  seconds = document.getElementById("id_S");
+            
+  hours.innerHTML = h;   
+  minutes.innerHTML = m;
+  seconds.innerHTML = s;
+};
     
-    /* функция добавления ведущих нулей */
-    /* (если число меньше десяти, перед числом добавляем ноль) */
-    function zero_first_format(value)
-    {
-        if (value < 10)
-        {
-            value='0'+value;
-        }
-        return value;
-    }
-
-    /* функция получения текущей даты и времени */
-    function date_time()
-    {
-        var current_datetime = new Date();
-        var day = zero_first_format(current_datetime.getDate());
-        var month = zero_first_format(current_datetime.getMonth()+1);
-        var year = current_datetime.getFullYear();
-        var hours = zero_first_format(current_datetime.getHours());
-        var minutes = zero_first_format(current_datetime.getMinutes());
-        var seconds = zero_first_format(current_datetime.getSeconds());
-
-        return day+"."+month+"."+year+" "+hours+":"+minutes+":"+seconds;
-    }
-
-    /* выводим текущую дату и время на сайт в блок с id "current_date_time_block" */
-    document.getElementById('current_date_time_block').innerHTML = date_time();
 </script>
+<script>setInterval(time, 1000);</script>
+       
+<div id="time" style="font-weight: bold;"> 
+<span id="id_H" style="color: Gold;"></span> : <span id="id_M" style="color: Silver;"></span> : <span id="id_S" style="color: Peru;" ></span>    
+</div>  
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
