@@ -1,8 +1,5 @@
 <html>
-<head>
-<title>Background-image</title>
-</head>
-<body background="https://pixabay.com/static/uploads/photo/2015/05/05/09/59/triangle-753534_960_720.png">
+<body background="VlaStitle1998.github.io/Фон.jpg">
 </body>
 </html>
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
