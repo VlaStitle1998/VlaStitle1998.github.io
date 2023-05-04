@@ -2,5 +2,5 @@
 <blockquote>
 <p align="center">Кто ВЛАДеет информацией - тот ВЛАДеет миром</p>
 </blockquote>
-<h4 align="right">Натан Ротшильд</h2> 
-<body bgcolor="#336655">
+<h4 align="right">Натан Ротшильд</h4> 
+
