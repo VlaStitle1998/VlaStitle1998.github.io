@@ -3,8 +3,7 @@
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
 <h4 align="right"> <i> Натан Ротшильд </i> </h4> 
-
-
+&nbsp
 <strong> <a href = "https://disk.yandex.ru/i/Wen4dDEMOEzmKw">  <span style="color:ForestGreen; text-decoration: underline;"> Основы программирования и баз данных </span> </a> </strong>
 
 
