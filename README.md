@@ -33,3 +33,7 @@
 
 
 <strong> <a href = "https://disk.yandex.ru/i/xLbceRalz0wpmg">   <span style="color:ForestGreen; text-decoration: underline;"> Wildberries Day  </span> </a> </strong>
+
+<strong> <a href = "https://disk.yandex.ru/i/znHkkbgVpn0wxg">   <span style="color:ForestGreen; text-decoration: underline;"> Управление высокотехнологичными проектами </span> </a> </strong>
+
+<strong> <a href = "https://disk.yandex.ru/i/os9Cbr0qpaP7FA">   <span style="color:ForestGreen; text-decoration: underline;">  Introduction to Agile Development and Scrum </span> </a> </strong>
