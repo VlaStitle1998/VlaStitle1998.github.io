@@ -31,6 +31,3 @@
 
 
 <strong> <a href = "https://disk.yandex.ru/i/xLbceRalz0wpmg">   <span style="color:ForestGreen; text-decoration: underline;"> Wildberries Day  </span> </a> </strong>
-
-
-theme: Cayman
