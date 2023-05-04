@@ -1,13 +1,10 @@
-html {
-  background-image: url(Фон.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+<html>
+<head>
+<title>Background-image</title>
+</head>
+<body background="https://pixabay.com/static/uploads/photo/2015/05/05/09/59/triangle-753534_960_720.png">
+</body>
+</html>
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
