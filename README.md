@@ -22,9 +22,9 @@ function time () {
 <script>setInterval(time, 1000);</script>
        
 <div id="time" style="font-weight: bold;"> 
-<span id="id_H" style="color: Gold;"></span> : <span id="id_M" style="color: Silver;"></span> : <span id="id_S" style="color: Peru;" ></span>    
+<span id="id_H" style="color: Purple;"></span> : <span id="id_M" style="color: MediumVioletRed;"></span> : <span id="id_S" style="color: Orchid;" ></span>    
 </div>  
-<h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
+<h1 align="center"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
