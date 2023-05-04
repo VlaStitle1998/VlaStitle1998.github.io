@@ -1,3 +1,8 @@
+<body
+<span id="clock"
+style="background-color: #2F4F4F; color: #00FF7F; border:4px outset #FFA500; padding:5px 20px;">
+</span>
+</body
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
