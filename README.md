@@ -2,22 +2,22 @@
 <h3 align="center">"Кто ВЛАДеет информацией - тот ВЛАДеет миром"</h3>
 <h4 align="right">Натан Ротшильд</h4> 
 
-<strong> <a href = "https://disk.yandex.ru/i/Wen4dDEMOEzmKw"> Основы программирования и баз данных </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/Wen4dDEMOEzmKw">  <span style="text-decoration: underline;"> Основы программирования и баз данных </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/DQEwELw0Qi2n-g"> Основы SQL и Баз Данных </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/DQEwELw0Qi2n-g">  <span style="text-decoration: underline;"> Основы SQL и Баз Данных </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/J49aBAkxaAym0Q"> "Поколение Python": курс для начинающих </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/J49aBAkxaAym0Q">  <span style="text-decoration: underline;"> "Поколение Python": курс для начинающих </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/CW3_LqOFD1AmbQ"> Excel: простые шаги для оптимизации работы с данными </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/CW3_LqOFD1AmbQ">  <span style="text-decoration: underline;"> Excel: простые шаги для оптимизации работы с данными </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/VjWQE7qnmvLFeA"> Junior data analyst: младший аналитик данных </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/VjWQE7qnmvLFeA">  <span style="text-decoration: underline;"> Junior data analyst: младший аналитик данных  </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/ynKe8XpvQKo72A"> Pandas </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/ynKe8XpvQKo72A">  <span style="text-decoration: underline;"> Pandas  </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/SoXgYrq4UnRQ1Q"> Data Visualization </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/SoXgYrq4UnRQ1Q">  <span style="text-decoration: underline;"> Data Visualization  </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/cqq1AEX22PX-Ng"> Intro to AI Ethics </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/cqq1AEX22PX-Ng">  <span style="text-decoration: underline;"> Intro to AI Ethics  </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/SMWaJgkVbwRyeQ"> Intro to Machine Learning </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/SMWaJgkVbwRyeQ">  <span style="text-decoration: underline;"> Intro to Machine Learning  </span> </a> </strong>
 
-<strong> <a href = "https://disk.yandex.ru/i/xLbceRalz0wpmg"> Wildberries Day </a> </strong>
+<strong> <a href = "https://disk.yandex.ru/i/xLbceRalz0wpmg">   <span style="text-decoration: underline;"> Wildberries Day  </span> </a> </strong>
