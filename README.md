@@ -1,3 +1,9 @@
+<table background="Фон.jpg">
+<tr>
+  <td width="50" align="center">4</td>
+  <td width="50" align="center">5</td>
+</tr>
+</table>
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
