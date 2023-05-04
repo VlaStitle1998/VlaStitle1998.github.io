@@ -1,29 +1,3 @@
-<script>
-function time () {
-  date = new Date(),
-  h = date.getHours(),
-  m = date.getMinutes(),
-  s = date.getSeconds(),
-
-  h = (h < 10) ? '0' + h : h,
-  m = (m < 10) ? '0' + m : m,
-  s = (s < 10) ? '0' + s : s;
-
-  hours  = document.getElementById("id_H");
-  minutes = document.getElementById("id_M");
-  seconds = document.getElementById("id_S");
-            
-  hours.innerHTML = h;   
-  minutes.innerHTML = m;
-  seconds.innerHTML = s;
-};
-    
-</script>
-<script>setInterval(time, 1000);</script>
-       
-<div id="time" style="font-weight: bold;"> 
-<span id="id_H" style="color: red;"></span> : <span id="id_M" style="color: green;"></span> : <span id="id_S" style="color:blue;" ></span>    
-</div>  
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
