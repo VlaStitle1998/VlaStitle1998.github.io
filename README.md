@@ -1,4 +1,4 @@
-<h1 align="center"> <strong> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Личный сайт Владислава Соловьева </strong> </span> </span> </h1> 
+<h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Личный сайт Владислава Соловьева </span> </span> </h1> 
 <h3 align="center">"Кто ВЛАДеет информацией - тот ВЛАДеет миром"</h3>
 <h4 align="right">Натан Ротшильд</h4> 
 
