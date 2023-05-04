@@ -1,6 +1,6 @@
 <h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Личный сайт Владислава Соловьева </span> </span> </h1> 
-<h3 align="center">"Кто ВЛАДеет информацией - тот ВЛАДеет миром"</h3>
-<h4 align="right">Натан Ротшильд</h4> 
+<h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
+<h4 align="right"> <i> Натан Ротшильд </i> </h4> 
 
 
 <strong> <a href = "https://disk.yandex.ru/i/Wen4dDEMOEzmKw">  <span style="color:ForestGreen; text-decoration: underline;"> Основы программирования и баз данных </span> </a> </strong>
