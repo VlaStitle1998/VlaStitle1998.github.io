@@ -1,4 +1,4 @@
-<h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> <div class="pouring"> Личный сайт Владислава Соловьева </div> </span> </span> </h1> 
+<h1 align="center"> <span style="border:2px HotPink; padding:3px;"> <span style="color:GoldenRod;"> Личный сайт Владислава Соловьева </span> </span> </h1> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
