@@ -69,16 +69,3 @@ function time () {
 <strong> <a href = "https://cloud.mail.ru/public/qZGP/GjWX3sVUv">   <span style="color:ForestGreen; text-decoration: underline;"> Управление высокотехнологичными проектами </span> </a> </strong>
 
 <strong> <a href = "https://cloud.mail.ru/public/dwh2/iJMihoMhx">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
-
-<html>
-<head>
-<style>
-body {
-  background-image: url(VlaStitle1998.github.io/Фото.jpg)
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  }
-</style>
-</head>
-</html>
