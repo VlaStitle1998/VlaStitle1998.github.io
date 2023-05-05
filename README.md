@@ -32,7 +32,7 @@ function time () {
 <a href="https://www.kaggle.com/solovey1998"><img src="Kaggle.png" width="50" height="50" /> </a>
 <a href="https://vk.com/vs18091998"> <img src="ВК.png" width="50" height="50" /> </a>
 <a href="https://t.me/Vladislav_Solovev1998"> <img src="Telegram.png" width="50" height="50" /> </a> </h4>
-
+<br>
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
 <h4 align="right"> <i> Натан Ротшильд </i> </h4> 
