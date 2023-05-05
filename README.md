@@ -26,9 +26,8 @@ function time () {
 </div>  
 <h1 align="center"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </h1>
 
-<a href="https://github.com/VlaStitle1998"><img src="github.png" width="25" height="25" /> </a>
-
-<h4 align="center"> <strong> <a href = "https://www.kaggle.com/solovey1998">  <span style="color:DodgerBlue; text-decoration: underline;">Kaggle</span> </a> </strong> </h4>
+<a href="https://github.com/VlaStitle1998"><img src="github.png" width="25" height="25" /> </a> 
+<a href="https://www.kaggle.com/solovey1998"><img src="Kaggle.png" width="35" height="35" /> </a>
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
