@@ -24,7 +24,9 @@ function time () {
 <div id="time" style="font-weight: bold;"> 
 <span id="id_H" style="color: Purple;"></span> : <span id="id_M" style="color: MediumVioletRed;"></span> : <span id="id_S" style="color: Orchid;" ></span>    
 </div>  
-<h1 align="center"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </h1> 
+<h1 align="center"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </h1>
+
+<strong> <a href = "https://www.kaggle.com/solovey1998">  <span style="color:DeepSkyBlue; text-decoration: underline;"> Мой Kaggle профиль </span> </a> </strong> 
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
