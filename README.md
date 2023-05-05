@@ -26,7 +26,7 @@ function time () {
 </div>  
 <h1 align="center"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </h1>
 
-<h4 align="center"> <strong> <a href = "https://www.kaggle.com/solovey1998">  <span style="color:DodgerBlue; text-decoration: underline;"> Мой Kaggle </span> </a> </strong> </h4>
+<h4 align="center"> <strong> <a href = "https://www.kaggle.com/solovey1998">  <span style="color:DodgerBlue; text-decoration: underline;">Мой Kaggle</span> </a> </strong> </h4>
 
 <h3 align="center"> <i> "Кто ВЛАДеет информацией - тот ВЛАДеет миром" </i> </h3>
 
