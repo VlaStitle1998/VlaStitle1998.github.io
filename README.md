@@ -75,5 +75,6 @@ div {
 height: 2950 px;
 width: 2094 px;
 background-image: url("Фон.jpg");
+background-size: cover;
 }
 </style>
