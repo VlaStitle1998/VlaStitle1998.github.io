@@ -72,7 +72,7 @@ function time () {
 
 <style>
 div {
-background-image: url("Заливка.jpg");
+background-image: url("Фон.jpg");
 background-size: cover;
 }
 </style>
