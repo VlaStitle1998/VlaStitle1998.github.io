@@ -76,3 +76,8 @@ background-image: url("Фон.jpg");
 background-size: cover;
 }
 </style>
+
+html, body {
+margin:0;
+padding:0;
+}
