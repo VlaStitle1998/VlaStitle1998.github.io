@@ -72,7 +72,7 @@ function time () {
 
 <style>
 div {
-height: 10000 px;
+height: 100 px;
 background: linear-gradient(to top left, powderblue, pink);
 }
 </style>
