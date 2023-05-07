@@ -75,4 +75,6 @@ div {
 background-image: url("Фон.jpg");
 background-size: cover;
 }
+body {
+:root, body { margin: 0; padding: 0; }
 </style>
