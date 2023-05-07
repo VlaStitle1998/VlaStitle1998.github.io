@@ -72,8 +72,8 @@ function time () {
 
 <style>
 div {
-height: 1920 px;
-width: 1080 px;
+height: 2950 px;
+width: 2094 px;
 background-image: url("Фон.jpg");
 }
 </style>
