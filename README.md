@@ -1,3 +1,5 @@
+<body>
+html, body {margin: 0; padding: 0; }
 <script>
 function time () {
   date = new Date(),
@@ -76,3 +78,4 @@ background-image: url("Фон.jpg");
 background-size: cover;
 }
 </style>
+</body>
