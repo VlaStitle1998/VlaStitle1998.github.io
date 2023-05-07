@@ -69,3 +69,24 @@ function time () {
 <strong> <a href = "https://cloud.mail.ru/public/qZGP/GjWX3sVUv">   <span style="color:ForestGreen; text-decoration: underline;"> Управление высокотехнологичными проектами </span> </a> </strong>
 
 <strong> <a href = "https://cloud.mail.ru/public/dwh2/iJMihoMhx">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
+
+<style>
+  rect {
+    cursor: pointer;
+    shape-rendering: crispEdges;
+    fill: url(#MyGradient);
+} 
+</style>  
+  <svg width="100" height="50" version="1.1" xmlns="http://www.w3.org/2000/svg">
+      <style type="text/css">
+        rect{fill:url(#MyGradient)}
+      </style>
+      <defs>
+        <linearGradient id="MyGradient">
+          <stop offset="5%" stop-color="#F60" />
+          <stop offset="95%" stop-color="#FF6" />
+        </linearGradient>
+      </defs>
+      
+      <rect width="5000" height="5000"/>
+    </svg>
