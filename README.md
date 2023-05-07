@@ -72,7 +72,7 @@ function time () {
 
 <style>
 div {
-height: 100 px;
-background: linear-gradient(to top left, powderblue, pink);
+height: 5000 px;
+background-image: url("Фон.jpg");
 }
 </style>
