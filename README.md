@@ -77,7 +77,9 @@ background-size: cover;
 }
 </style>
 
-html, body {
+<html> 
+body {
 margin:0;
 padding:0;
 }
+</html>
