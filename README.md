@@ -83,8 +83,8 @@ function time () {
       </style>
       <defs>
         <linearGradient id="MyGradient">
-          <stop offset="5%" stop-color="#F60" />
-          <stop offset="95%" stop-color="#FF6" />
+          <stop offset="5%" stop-color="#F0F8FF" />
+          <stop offset="95%" stop-color="#6495ED" />
         </linearGradient>
       </defs>
       
