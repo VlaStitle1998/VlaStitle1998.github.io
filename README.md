@@ -1,29 +1,3 @@
-<script>
-function time () {
-  date = new Date(),
-  h = date.getHours(),
-  m = date.getMinutes(),
-  s = date.getSeconds(),
-
-  h = (h < 10) ? '0' + h : h,
-  m = (m < 10) ? '0' + m : m,
-  s = (s < 10) ? '0' + s : s;
-
-  hours  = document.getElementById("id_H");
-  minutes = document.getElementById("id_M");
-  seconds = document.getElementById("id_S");
-            
-  hours.innerHTML = h;   
-  minutes.innerHTML = m;
-  seconds.innerHTML = s;
-};
-    
-</script>
-<script>setInterval(time, 1000);</script>
-       
-<div id="time" style="font-weight: bold;"> 
-<span id="id_H" style="color: Purple;"></span> : <span id="id_M" style="color: MediumVioletRed;"></span> : <span id="id_S" style="color: Orchid;" ></span>    
-</div>  
 <h1 align="center"> <span style="color:GoldenRod;"> Владислав Соловьев </span> </h1>
 
 <h4 align="center"> <a href="https://github.com/VlaStitle1998"> <img src="GitHub.png" width="50" height="50" /> </a>
