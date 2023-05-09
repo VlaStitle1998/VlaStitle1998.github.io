@@ -46,7 +46,8 @@
 
 <style>
 div {
-height: 5000px;
+height: 1000px;
+width: 2000px;
 background: linear-gradient(to top left, powderblue, pink);
 }
 </style>
