@@ -44,10 +44,4 @@
 
 <strong> <a href = "https://cloud.mail.ru/public/dwh2/iJMihoMhx">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
 
-<style>
-div {
-background-image: url("Фон.jpg");
-background-size: cover;
-background-border: none;
-}
-</style>
+div.card-item__image(style='background-image: url(#{Фон.jpg})')
