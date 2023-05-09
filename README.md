@@ -44,4 +44,4 @@
 
 <strong> <a href = "https://cloud.mail.ru/public/dwh2/iJMihoMhx">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
 
-<img src="Фон.jpg" object-fit: cover;>
+<img src="Фон.jpg"; object-fit: cover;>
