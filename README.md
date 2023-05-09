@@ -50,3 +50,4 @@ background-image: url("Фон.jpg");
 background-size: cover;
 }
 </style>
+ <li>...</li><li>...</li>
