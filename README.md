@@ -48,6 +48,6 @@
 div {
 background-image: url("Фон.jpg");
 background-size: cover;
-border: 0px;
+border: none;
 }
 </style>
