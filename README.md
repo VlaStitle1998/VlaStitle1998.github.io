@@ -48,8 +48,7 @@
 div {
 background-image: url("Фон.jpg");
 background-size: cover;
-height: 1000%;
-width: 1000%;
-margin: 0 !important;
+remove margin-left: True;
+remove margin-right: True;
 }
 </style>
