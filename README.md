@@ -47,6 +47,7 @@
 <style>
 div {
 background-image: url("Фон.jpg");
-background-size: cover| inherit
+background-size: cover;
+height: 100vh;
 }
 </style>
