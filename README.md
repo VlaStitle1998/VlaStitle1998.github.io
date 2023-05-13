@@ -47,7 +47,6 @@
 <style>
 div {
 background-image: url("Фон.jpg");
-background-size: cover;
-border-color: transparent;
+background-size: cover| 100%| 2950px 2094px| inherit
 }
 </style>
