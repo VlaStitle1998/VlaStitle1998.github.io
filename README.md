@@ -49,5 +49,6 @@ div {
 background-image: url("Фон4.jpeg");
 background-size: cover;
 height: 1500px;
+width: 1012px;
 }
 </style>
