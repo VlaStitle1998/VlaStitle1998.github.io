@@ -46,7 +46,7 @@
 
 <style>
 div {
-background-image: url("Фон.jpg");
+background-image: url("Фон1.jpeg");
 background-size: cover;
 }
 </style>
