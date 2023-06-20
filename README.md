@@ -38,7 +38,7 @@
 <strong> <a href = "https://cloud.mail.ru/public/fs3g/r6W1EFSMz">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to Machine Learning  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/nEVe/9HEDxnksC">   <span style="color:ForestGreen; text-decoration: underline;"> Wildberries Day  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/3xG3/7UHxWuDis">   <span style="color:ForestGreen; text-decoration: underline;"> Технологии Анализа Данных  </span> </a> </strong>
 
 <strong> <a href = "https://cloud.mail.ru/public/qZGP/GjWX3sVUv">   <span style="color:ForestGreen; text-decoration: underline;"> Управление высокотехнологичными проектами </span> </a> </strong>
 
