@@ -35,7 +35,7 @@
 <strong> <a href = "https://cloud.mail.ru/public/fU4u/GrkRL1PVE">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to AI Ethics  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/fs3g/r6W1EFSMz">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to Machine Learning  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/DvCV/LFUtJw2tH">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to Deep Learning  </span> </a> </strong>
 
 
 <strong> <a href = "https://cloud.mail.ru/public/3xG3/7UHxWuDis">   <span style="color:ForestGreen; text-decoration: underline;"> Технологии Анализа Данных  </span> </a> </strong>
