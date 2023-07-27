@@ -20,7 +20,7 @@
 <strong> <a href = "https://cloud.mail.ru/public/kAdr/uWbdgzkXR">  <span style="color:ForestGreen; text-decoration: underline;"> "Поколение Python": курс для начинающих </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/N94K/zMor9GUc4">  <span style="color:ForestGreen; text-decoration: underline;"> Excel: простые шаги для оптимизации работы с данными </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/XF6a/spjjav3ch">  <span style="color:ForestGreen; text-decoration: underline;"> Excel: простые шаги для оптимизации работы с данными </span> </a> </strong>
 
 
 <strong> <a href = "https://cloud.mail.ru/public/dSxk/RmtW48kXi">  <span style="color:ForestGreen; text-decoration: underline;"> Junior data analyst: младший аналитик данных  </span> </a> </strong>
