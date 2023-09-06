@@ -44,6 +44,8 @@
 
 <strong> <a href = "https://cloud.mail.ru/public/dwh2/iJMihoMhx">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
 
+<strong> <a href = "https://cloud.mail.ru/public/dcrV/DEbid7AbP"> <span style="color:ForestGreen; text-decoration: underline;"> Git и Github </span> </a> </strong>
+
 <style>
 div {
 background-image: url("Фон4.jpeg");
