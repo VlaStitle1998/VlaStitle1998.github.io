@@ -11,38 +11,38 @@
 
 <h4 align="right"> <i> Натан Ротшильд </i> </h4> 
 <br> <br>
-<strong> <a href = "https://cloud.mail.ru/public/N3Fg/tKDwxWygb">  <span style="color:ForestGreen; text-decoration: underline;"> Основы программирования и баз данных </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/iiuN/rqryKRnG5">  <span style="color:ForestGreen; text-decoration: underline;"> Основы программирования и баз данных </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/omkH/FFFCTeAxe">  <span style="color:ForestGreen; text-decoration: underline;"> Основы SQL и Баз Данных </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/rUbi/H5nTxFcQo">  <span style="color:ForestGreen; text-decoration: underline;"> Основы SQL и Баз Данных </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/kAdr/uWbdgzkXR">  <span style="color:ForestGreen; text-decoration: underline;"> "Поколение Python": курс для начинающих </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/6mUg/vVFEGkZHQ">  <span style="color:ForestGreen; text-decoration: underline;"> "Поколение Python": курс для начинающих </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/XF6a/spjjav3ch">  <span style="color:ForestGreen; text-decoration: underline;"> Excel: простые шаги для оптимизации работы с данными </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/ig3b/AZaVPbCme">  <span style="color:ForestGreen; text-decoration: underline;"> Excel: простые шаги для оптимизации работы с данными </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/dSxk/RmtW48kXi">  <span style="color:ForestGreen; text-decoration: underline;"> Junior data analyst: младший аналитик данных  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/XrPR/tAfEr2kfP">  <span style="color:ForestGreen; text-decoration: underline;"> Junior data analyst: младший аналитик данных  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/xUtq/YaWAdjSGQ">  <span style="color:ForestGreen; text-decoration: underline;"> Pandas  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/YMXH/Lps7rkYab">  <span style="color:ForestGreen; text-decoration: underline;"> Pandas  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/7doz/11EgMXxoV">  <span style="color:ForestGreen; text-decoration: underline;"> Data Visualization  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/9sMg/26wFMkcDB">  <span style="color:ForestGreen; text-decoration: underline;"> Data Visualization  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/fU4u/GrkRL1PVE">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to AI Ethics  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/qWoi/yVqTrkBy2">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to AI Ethics  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/DvCV/LFUtJw2tH">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to Deep Learning  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/SALa/doj57hQ62">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to Deep Learning  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/3xG3/7UHxWuDis">   <span style="color:ForestGreen; text-decoration: underline;"> Технологии Анализа Данных  </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/pjC2/KPmuHRd3A">   <span style="color:ForestGreen; text-decoration: underline;"> Технологии Анализа Данных  </span> </a> </strong>
 
-<strong> <a href = "https://cloud.mail.ru/public/qZGP/GjWX3sVUv">   <span style="color:ForestGreen; text-decoration: underline;"> Управление высокотехнологичными проектами </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/nTko/WAkYV2Avu">   <span style="color:ForestGreen; text-decoration: underline;"> Управление высокотехнологичными проектами </span> </a> </strong>
 
-<strong> <a href = "https://cloud.mail.ru/public/dwh2/iJMihoMhx">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/RVac/Baz74nk3H">   <span style="color:ForestGreen; text-decoration: underline;"> Introduction to Agile Development and Scrum </span> </a> </strong>
 
 <strong> <a href = "https://cloud.mail.ru/public/dcrV/DEbid7AbP"> <span style="color:ForestGreen; text-decoration: underline;"> Git и Github </span> </a> </strong>
 
