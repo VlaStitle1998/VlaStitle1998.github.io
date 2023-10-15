@@ -17,7 +17,7 @@
 <strong> <a href = "https://cloud.mail.ru/public/rUbi/H5nTxFcQo">  <span style="color:ForestGreen; text-decoration: underline;"> Основы SQL и Баз Данных </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/6mUg/vVFEGkZHQ">  <span style="color:ForestGreen; text-decoration: underline;"> "Поколение Python": курс для начинающих </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/6mUg/vVFEGkZHQ">  <span style="color:ForestGreen; text-decoration: underline;"> Поколение Python: курс для начинающих </span> </a> </strong>
 
 
 <strong> <a href = "https://cloud.mail.ru/public/ig3b/AZaVPbCme">  <span style="color:ForestGreen; text-decoration: underline;"> Excel: простые шаги для оптимизации работы с данными </span> </a> </strong>
