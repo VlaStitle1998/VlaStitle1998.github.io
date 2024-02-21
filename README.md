@@ -46,8 +46,6 @@
 
 <strong> <a href = "https://cloud.mail.ru/public/dcrV/DEbid7AbP"> <span style="color:ForestGreen; text-decoration: underline;"> Git и Github </span> </a> </strong>
 
-<strong> <a href = "https://cloud.mail.ru/public/HaFW/MypX4Cz4J"> <span style="color:ForestGreen; text-decoration: underline;"> Поколение Python: ООП </span> </a> </strong>
-
 <strong> <a href = "https://cloud.mail.ru/public/Kzhg/cMdpC7Z5L"> <span style="color:ForestGreen; text-decoration: underline;"> Free OpenCV Bootcamp </span> </a> </strong>
 
 <style>
