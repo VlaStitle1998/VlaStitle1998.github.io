@@ -26,15 +26,6 @@
 <strong> <a href = "https://cloud.mail.ru/public/XrPR/tAfEr2kfP">  <span style="color:ForestGreen; text-decoration: underline;"> Junior data analyst: младший аналитик данных  </span> </a> </strong>
 
 
-<strong> <a href = "https://cloud.mail.ru/public/YMXH/Lps7rkYab">  <span style="color:ForestGreen; text-decoration: underline;"> Pandas  </span> </a> </strong>
-
-
-<strong> <a href = "https://cloud.mail.ru/public/9sMg/26wFMkcDB">  <span style="color:ForestGreen; text-decoration: underline;"> Data Visualization  </span> </a> </strong>
-
-
-<strong> <a href = "https://cloud.mail.ru/public/qWoi/yVqTrkBy2">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to AI Ethics  </span> </a> </strong>
-
-
 <strong> <a href = "https://cloud.mail.ru/public/SALa/doj57hQ62">  <span style="color:ForestGreen; text-decoration: underline;"> Intro to Deep Learning  </span> </a> </strong>
 
 
