@@ -38,7 +38,9 @@
 
 <strong> <a href = "https://cloud.mail.ru/public/dcrV/DEbid7AbP"> <span style="color:ForestGreen; text-decoration: underline;"> Git и Github </span> </a> </strong>
 
-<strong> <a href = "https://cloud.mail.ru/public/Kzhg/cMdpC7Z5L"> <span style="color:ForestGreen; text-decoration: underline;"> Free OpenCV Bootcamp </span> </a> </strong>
+<strong> <a href = "https://cloud.mail.ru/public/dcrV/DEbid7AbP"> <span style="color:ForestGreen; text-decoration: underline;"> Тренировки по Алгоритмам 5.0 </span> </a> </strong>
+
+<strong> <a href = "https://cloud.mail.ru/public/ssb6/H4T3Sh2KH"> <span style="color:ForestGreen; text-decoration: underline;"> Free OpenCV Bootcamp </span> </a> </strong>
 
 <style>
 div {
